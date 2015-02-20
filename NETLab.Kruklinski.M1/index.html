@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="/Content/site/site.css" />
+    <link rel="stylesheet" href="/Content/menu/menu.css" />
+    <link rel="stylesheet" href="/Content/jsonTree/jsonTree.css" />
+    <script src="/Scripts/js.js"></script>
+    <script src="/Scripts/authentication.js"></script>
+    <script src="/Content/site/site.js"></script>
+    <script src="/Content/jsonTree/jsonTree.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="page">
+    <div id="page__layout">
+        <div id="header">
+            <div class="header__logs">
+                <div id="login"  class="header__logs__login"  hidden>
+                    <form id="login__form" action="/Account/LogIn" method="POST">
+                        <div class="login__email">
+                            <div class="login__email__label">
+                                <label>Email addres</label>
+                            </div>
+                            <div class="login__email__text-box">
+                                <input name="email" type="email" />
+                            </div>
+                        </div>
+                        <div class="login__password">
+                            <div class="login__password__label">
+                                <label>Password</label>
+                            </div>
+                            <div class="login__password__text-box">
+                                <input name="password" type="password" />
+                            </div>
+                        </div>
+                        <div class="login__button">
+                            <input class="login__button__input" type="submit" value="Log In" />
+                        </div>
+                    </form>
+                </div>
+                <div id="logout" class="header__logs__logout" hidden>
+                    <form id="logout__form" action="/Account/LogOut" method="POST">
+                        <div class="logout__button">
+                            <input class="logout__button__input" type="submit" value="Log Out" />
+                        </div>
+                    </form>
+                </div>
+                <div id="header__logs__loading">
+                    <img src="Content\\site\\images\\loading.GIF" />
+                </div>
+            </div>
+            <div class="header__title">
+                Web basics
+            </div>
+        </div>
+        <div id="menu" class="menu" hidden>
+            <div class="menu__load-button">
+                <input type="submit" value="Load" id="menu__load-button" />
+            </div>
+        </div>
+        <div id="content">
+            <div id="jsonTree" hidden>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

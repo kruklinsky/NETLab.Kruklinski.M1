@@ -1,0 +1,71 @@
+﻿.page {
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(images\\background.png);
+    background-color: rgb(0,162,232);
+    margin: 10px 10px 20px;
+}
+
+DIV#page__layout {
+    min-width: 200px;
+    padding: 0px;
+    margin: 0px auto;
+    position: relative;
+    z-index: 6;
+    width: 80%;
+}
+DIV#header {
+    background-color:#353535;
+    border-bottom: 2px solid #111;
+    color: White;
+}
+#content {
+    background-color:#353535;
+}
+
+.header__title {
+        font-size: 2em;
+        padding: .6em;
+}
+.header__logs {
+    margin-top:2px;
+    background-color:#353535;
+    padding: .6em;
+    float:right;
+}
+    .header__logs__login div {
+    display: inline-block;
+}
+
+.login__button {
+    margin-top:3px;
+}
+    .login__button__input{
+    border: none;
+        background-color:rgb(0,162,232);
+}
+
+.logout__button {
+    margin-top:3px;
+}
+    .logout__button__input{
+        border: none;
+            background-color:rgb(0,162,232);
+    }
+
+@media screen and (max-width: 768px) {
+    .header__logs {
+        margin-left:10px;
+        float: none;
+    }
+        .header__logs__login div {
+            display: block;
+        }
+        #header__logs__loading {
+            float: right;
+        }
+    .logout__button {
+        float: right;
+    }
+}

@@ -1,0 +1,133 @@
+﻿{
+	"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+	"surname": "Kruklinski",
+	"age": 21,
+	"address": { 
+			"country" : "Belarus", 
+			"city" : "Minsk", 
+			"numbers": [4, 8, 15, 16, 23, 42],
+			"more" : 
+			{
+				"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+				"surname": "Kruklinski",
+				"age": 21,
+				"address": { 
+						"country" : "Belarus", 
+						"city" : "Minsk", 
+						"numbers": [4, 8, 15, 16, 23, 42],
+						"more" : 
+							{
+								"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+								"surname": "Kruklinski",
+								"age": 21,
+								"address": { 
+										"country" : "Belarus", 
+										"city" : "Minsk", 
+										"numbers": [4, 8, 15, 16, 23, 42],
+										"more" : 
+											{
+												"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+												"surname": "Kruklinski",
+												"age": 21,
+												"address": { 
+														"country" : "Belarus", 
+														"city" : "Minsk", 
+														"numbers": [4, 8, 15, 16, 23, 42],
+														"more" : 
+															{
+																"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+																"surname": "Kruklinski",
+																"age": 21,
+																"address": { 
+																		"country" : "Belarus", 
+																		"city" : "Minsk", 
+																		"numbers": [4, 8, 15, 16, 23, 42],
+																		"more" : 
+																			{
+																				"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+																				"surname": "Kruklinski",
+																				"age": 21,
+																				"address": { 
+																						"country" : "Belarus", 
+																						"city" : "Minsk", 
+																						"numbers": [4, 8, 15, 16, 23, 42]
+																					},
+																				"extrainfo": {
+																						"a": null, 
+																						"birthday": {
+																							"day": 23, 
+																							"month": "july", 
+																							"year": 1993
+																							}
+																						} 
+																			}
+																	},
+																"extrainfo": {
+																		"a": null, 
+																		"birthday": {
+																			"day": 23, 
+																			"month": "july", 
+																			"year": 1993
+																			,
+																			"more" : 
+																				{
+																					"name" : "Aliaksandr asdf asdfa sdf asdfasdf asdf asdf asdf asdf asdf asdf asdf asdf ",
+																					"surname": "Kruklinski",
+																					"age": 21,
+																					"address": { 
+																							"country" : "Belarus", 
+																							"city" : "Minsk", 
+																							"numbers": [4, 8, 15, 16, 23, 42]
+																						},
+																					"extrainfo": {
+																							"a": null, 
+																							"birthday": {
+																								"day": 23, 
+																								"month": "july", 
+																								"year": 1993
+																								}
+																							} 
+																				}
+																			}
+																		} 
+															}
+													},
+												"extrainfo": {
+														"a": null, 
+														"birthday": {
+															"day": 23, 
+															"month": "july", 
+															"year": 1993
+															}
+														} 
+											}
+									},
+								"extrainfo": {
+										"a": null, 
+										"birthday": {
+											"day": 23, 
+											"month": "july", 
+											"year": 1993
+											}
+										} 
+							}
+					},
+				"extrainfo": {
+						"a": null, 
+						"birthday": {
+							"day": 23, 
+							"month": "july", 
+							"year": 1993
+							}
+						} 
+			}
+		},
+	"extrainfo": {
+			"a": null, 
+			"birthday": {
+				"day": 23, 
+				"month": "july", 
+				"year": 1993
+				}
+			} 
+}

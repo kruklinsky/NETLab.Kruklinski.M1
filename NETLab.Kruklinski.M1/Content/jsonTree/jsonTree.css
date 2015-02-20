@@ -1,0 +1,64 @@
+﻿#jsonTree {
+    background: #353535;
+    border-top: 2px solid #111;
+    padding-bottom: 5px;
+}
+
+.jsonTree {
+    padding:0;
+    margin: 0;
+}
+.jsonTree li {
+    list-style-type: none;
+}
+
+.node {
+    margin-left: 18px;
+}
+.root {
+    margin-left: 0;
+}
+
+.last {
+    background-repeat : no-repeat;
+}
+.expandOpen .expand {
+    background-image: url(images\\expand_minus.png);
+}
+.expandClosed .expand {
+    background-image: url(images\\expand_plus.png);
+}
+.expandLeaf .expand {
+    background-image: url(images\\expand_leaf.png);
+        background-repeat : no-repeat;
+}
+
+.content {
+    min-height: 18px;
+    margin-left:18px;
+}
+.expand {
+    width: 18px;
+    height: 18px;
+    float: left;
+}
+
+.expandOpen .jsonTree {
+	display: block;
+}
+.expandClosed .jsonTree {
+	display: none;
+}
+.expandOpen .expand, .expandClosed .expand {
+	cursor: pointer;
+}
+
+.content {
+    color: white;
+    padding-left:2px;
+}
+	
+.some {
+    padding:0;
+    margin: 0;
+}

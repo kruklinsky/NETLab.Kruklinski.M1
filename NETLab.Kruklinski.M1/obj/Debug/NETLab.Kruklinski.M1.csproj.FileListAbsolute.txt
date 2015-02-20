@@ -1,0 +1,11 @@
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\NETLab.Kruklinski.M1.dll.config
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\NETLab.Kruklinski.M1.dll
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\NETLab.Kruklinski.M1.pdb
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\obj\Debug\NETLab.Kruklinski.M1.dll
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\obj\Debug\NETLab.Kruklinski.M1.pdb
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\EntityFramework.dll
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\EntityFramework.SqlServer.dll
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\EntityFramework.xml
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\EntityFramework.SqlServer.xml
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\System.Web.Helpers.dll
+F:\Workspase\.NET Lab\NETLab.Kruklinski.M1\NETLab.Kruklinski.M1\bin\System.Web.Helpers.xml
