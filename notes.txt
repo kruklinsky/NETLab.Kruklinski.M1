@@ -1,0 +1,8 @@
+Features
+- Tree handlers to upload json data from the file: ashx, class based, async class based.
+- Custom form authentication module.
+- AccountHandler for creating deleting and checking coocies.
+- Ajax json file uploading and ajax loging.
+- Responsive web design.
+- Unobtrusive javascript.
+- Error page.
